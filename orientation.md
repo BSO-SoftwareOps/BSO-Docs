@@ -39,9 +39,15 @@ This brief training is based on mistakes seen every single week within our match
 5. **Setting the afk command**: use -!afk X hours Reason- [you can sleep, but we need to know when, to know the tools available to us in your area of the map]
 6. **Coming back from AFK** : Read discord first. Find out what has been requested in your absence. If any doubt, ping the channel for recommandations on your actions. When decided, get in game and make the moves in TM. [Don’t blindly send your ships to where you think it would be best, you just missed 8 hours of WS :zzz:, you don’t know]
 
-**Pro Tip**
+**Managing Opponents Corp Hoping for RS**
+1. If ws opponent joins your Corp they cannot see time machine as a member. Senior and officer has not been tested. 
 
-At the bottom of you discord, there is an “@“ button which shows you all the latest pings you received. It’s an easy way to catch up on information concerning yourself while you were away.
+2. If a **non WS opponent** joins Corp they **can see time machine as a member**.  this can be a member of the opponent corp that is not in this particular ws, or another linked player / alt, etc.
+
+3. If time machine is not open when you leave Corp, you cannot open/use it anymore. 
+
+4. If time machine is open when you leave Corp, **you continue to be able to use it indefinitely** i.e. until you purposely close it (or hades get disconnected)
+Commanders, be thorough when setting opponents - include everyone in the opponent corp (as opposed to only the players in your particular ws), include everyone that you know is connected somehow. because when they come to bso for RS, they **are able** to peek and gain intelligence. it only takes a moment to perceive key moves.
 
 # Data
 
