@@ -17,7 +17,7 @@ This brief training is based on mistakes seen every single week within our match
 1. **Use the -!opt-in- command** with your WS tag to gain access to the right channels. [Do it fast! Save your commanders the extra work]
 2. ****Follow the loadout** : commanders spend time on strategical decisions. Any modification should be approved before changed. [Much easier to blame the commander in case of loss, rather than your lack of attention when you have the right modules]
 3. **Warp your WS battleship in your Diplo before scan** : no need for the enemy to come peek at our strategy by looking at our modules. Preferable if it’s available. 
-**4. A note on sanctuary**: If you want to put sanctuary on your BS, do not answer competitive on the poll, you aren’t competitive you are casual. [since the recent update in rewards, you can lose 2 BS and the match and still come out even]
+4. **A note on sanctuary**: If you want to put sanctuary on your BS, do not answer competitive on the poll, you aren’t competitive you are casual. [since the recent update in rewards, you can lose 2 BS and the match and still come out even]
 
 
 **During Prep Period**
