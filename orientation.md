@@ -72,10 +72,7 @@ Barrage    |  7 | 3 PREFERRED or above. or swap 1 Barrage for a mass target
 Passive    |  8 | 2 (or<sup>3</sup>)
 Omega      |  5 | 2 (or<sup>3</sup>)
 Blast      |  5 | 1
-Area       |    |
 -----------|----|------------
-EMP        | any| 2
-Teleport   |    |
 Barrier    | 8  | 2
 
 **RS10**
@@ -97,7 +94,6 @@ Barrage    |  9 | 2
 Blast      |  5 | 1
 Area       |  1 | 1 (2 encouraged)
 -----------|----|------------
-EMP        | any| 2
 Timewarp   | 9  |
 Salvage    | 5  | 3
 Barrier    | 8  | 3
