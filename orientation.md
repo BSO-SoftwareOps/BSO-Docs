@@ -77,10 +77,14 @@ Barrier    | 8  | 2
 
 **RS10**
 
-__Phase 1__
+This introduces the Ghost, a swarm of regularly spawning ships that are immunte to most mods. They spawn anywhere and spawn more frequently the longer the RS goes on. Because of this BSO requires a 2 phased approach, the clear phase and the collection phase.
+
+__Phase 1__ -- The Clear
+
 All players will focus on catching the destroyers and clearing planets, then enough additional sectors that everyone's influence bar is blue or very close to it. Order of priority: Storm > Phoenix > Bomber > Collosus.
 
-__Phase 2__
+__Phase 2__ -- The Collection
+
 *Check with other players before starting this*; players will each pick a planet to defend from ghosts, and transports will teleport in to load. It is expected that you keep an area shield up and TW on the planet to speed up this process. **Mine at your own risk; transports are the priority.** If you need a croid, please inform the other players at this point. It is better to save those for the second transport trip when there will be BS free to watch them. 
 
 Tech Name  | LV | # of Ships
