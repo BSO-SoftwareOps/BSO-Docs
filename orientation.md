@@ -78,10 +78,10 @@ Barrier    | 8  | 2
 **RS10**
 
 __Phase 1__
-*need someone who is actually RS10 to fill out this section and explain Phase 1 and Phase 2* 
+All players will focus on catching the destroyers and clearing planets, then enough additional sectors that everyone's influence bar is blue or very close to it. Order of priority: Storm > Phoenix > Bomber > Collosus.
 
 __Phase 2__
-Loading phase. ALL PLANETS TAKE PRIOTY OF PROTECTION OVER MINERS. THIS IS NON-NEGOTIABLE
+*Check with other players before starting this*; players will each pick a planet to defend from ghosts, and transports will teleport in to load. It is expected that you keep an area shield up and TW on the planet to speed up this process. **Mine at your own risk; transports are the priority.** If you need a croid, please inform the other players at this point. It is better to save those for the second transport trip when there will be BS free to watch them. 
 
 Tech Name  | LV | # of Ships
 -----------|----|-----------
