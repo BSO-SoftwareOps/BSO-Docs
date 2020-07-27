@@ -22,14 +22,16 @@ But not all was perfect. __Angrydogies__, an order founder, took his leave in Ma
 
 ## Nowadays
 
-While White Star play may still be recovering, BSO is presently renowned for its strong RS play, boasting over 300 runners, and the first place in the red star event #6. BSO also, in June of 2020, decided once more to look outwards for expansion, bringing in the top corporation **United Galaxies** with __Senofast__ & __TheIronReign__ joining the BSO family. This move brought the total membership up to about 140 members and expanded the order to 5 corporations. Currently, BSO’s CEO is __Wayne-Gro__, and the order keeps growing every day.
+While White Star play may still be recovering, BSO is presently renowned for its strong RS play, boasting over 300 runners, and the first place in the red star event #6. BSO also, in June of 2020, decided once more to look outwards for expansion, bringing in the top corporation **United Galaxies** with __Senofast__ & __TheIronReign__ joining the BSO family. This move brought the total membership up to about 140 members and expanded the order to 5 corporations. 
+
+Currently, BSO’s CEO is __Wayne-Gro__, and the order keeps growing every day.
 
 ## Epilogue
 
 BSO holds the honor of being the first conglomerate created in this game.
 Currently, __Ztrata__, __T010__, __Ukrinsky__ and __McChaos__ are the only founders left.
-Current BSO Corps: **BlackStar Order**, **Final**, **Trade Station**, **United Galaxies**, **Path of Hades** & **Dauntless**.;
+Current BSO Corps: **BlackStar Order**, **Final**, **Trade Station**, **United Galaxies**, **Path of Hades** & **Dauntless**.
 
 ---
-Compiled on June 19, 2020
+Compiled on June 19, 2020<br />
 Updated on June 22, 2020
