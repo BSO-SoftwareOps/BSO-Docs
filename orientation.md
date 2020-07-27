@@ -20,7 +20,8 @@ EMP        | any| 2
 
 **Red Star 7**
 
-Welcome to bombers, if you have not turned on the heat map, turn it on now. Bombers fire rockets into all adjacent sectors and a rocket hit will quickly cause you to wipe, which is why we require Blast shield.
+Welcome to bombers, if you have not turned on the heat map, turn it on now. Bombers fire rockets into all adjacent sectors and a rocket hit will quickly cause you to wipe, which is why we require Blast shield. 
+Suggested order of engagement: Target planets destroyers are going to --> Bombers > Collosus > Rest
 
 Tech Name  | LV | # of Ships
 -----------|----|-----------
@@ -39,6 +40,7 @@ Barrier    | 2  | 2
 **Red Star 8**
 
 Introducing the Phoenix, it packs an area shield, a strong dual laser, and moves around its sector to protect cerbs closest to battleships. You can use this to your advantage, ideally you want to trap a Phoneix just of out firing range as you kill a bomber to drain its area shield and then move into the kill.
+Suggested order of engagement: Target planets destroyers are going to --> Phoenix > Bombers > Collosus > Rest
 
 Tech Name  | LV | # of Ships
 -----------|----|-----------
@@ -51,11 +53,56 @@ Barrage    |  6 | 1 (or<sup>1</sup>)
 Passive    |  6 | 2 (or<sup>3</sup>)
 Omega      |  4 | 2 (or<sup>3</sup>)
 Blast      |  3 | 1
+-----------|----|------------
+EMP        | any| 2
+Barrier    | 5  | 1
+
+
+**Red Star 9**
+Ahh yes, the best RS to be at in game from a gain / hydro spent perspective. You will be here a while, enjoy it. The Storm is the new enemy here and it fires DARTS in a giant radius at all ships in range as it circles the planet. Follow similar engagement to RS8 in regards to Phoenix Area shield. Order of priority: Storm > Phoenix > Bomber > Collosus. Be careful with your barriers as stacked Storm darts will kill you VERY quick if you dont time barrier dropping right.
+
+Tech Name  | LV | # of Ships
+-----------|----|-----------
+Battery    | 10 | 2 (or<sup>1</sup>)
+Laser      | 10 | 2 (or<sup>1</sup>)
+Dual Laser |  8 | 1 (or<sup>2</sup>)
+Mass Batt  |  8 | 1 (or<sup>2</sup>)
+Barrage    |  7 | 3 PREFERRED or above. or swap 1 Barrage for a mass target
+-----------|----|------------
+Passive    |  8 | 2 (or<sup>3</sup>)
+Omega      |  5 | 2 (or<sup>3</sup>)
+Blast      |  5 | 1
 Area       |    |
 -----------|----|------------
 EMP        | any| 2
 Teleport   |    |
-Barrier    | 5  | 1
+Barrier    | 8  | 2
+
+**RS10**
+__Phase 1__
+*need someone who is actually RS10 to fill out this section and explain Phase 1 and Phase 2* 
+
+__Phase 2__
+Loading phase. ALL PLANETS TAKE PRIOTY OF PROTECTION OVER MINERS. THIS IS NON-NEGOTIABLE
+
+Tech Name  | LV | # of Ships
+-----------|----|-----------
+36T TS     |    | n/a
+Battleship | 6  | n/a
+-----------|----|-----------
+Dual Laser |  8 | 1 (or<sup>2</sup>)
+Mass Batt  |  9 | 1 (or<sup>2</sup>)
+Barrage    |  9 | 2
+-----------|----|------------
+Blast      |  5 | 1
+Area       |  1 | 1 (2 encouraged)
+-----------|----|------------
+EMP        | any| 2
+Timewarp   | 9  |
+Salvage    | 5  | 3
+Barrier    | 8  | 3
+RSE        | any| until loading complete
+
 
 
 # White Stars
