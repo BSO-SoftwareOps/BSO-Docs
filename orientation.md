@@ -54,13 +54,12 @@ Passive    |  6 | 2 (or<sup>3</sup>)
 Omega      |  4 | 2 (or<sup>3</sup>)
 Blast      |  3 | 1
 -----------|----|------------
-EMP        | any| 2
 Barrier    | 5  | 1
 
 
 **Red Star 9**
 
-Ahh yes, the best RS to be at in game from a gain / hydro spent perspective. You will be here a while, enjoy it. The Storm is the new enemy here and it fires DARTS in a giant radius at all ships in range as it circles the planet. Follow similar engagement to RS8 in regards to Phoenix Area shield. Order of priority: Storm > Phoenix > Bomber > Collosus. Be careful with your barriers as stacked Storm darts will kill you VERY quick if you dont time barrier dropping right.
+Ahh yes, the best RS to be at in game from a gain / hydro spent perspective. You will be here a while, enjoy it. The Storm is the new enemy here and it fires DARTS in a giant radius at all ships in range as it circles the planet. Follow similar engagement to RS8 in regards to Phoenix Area shield. Be careful with your barriers as stacked Storm darts will kill you VERY quick if you dont time barrier dropping right. Order of priority: Storm > Phoenix > Bomber > Collosus.
 
 Tech Name  | LV | # of Ships
 -----------|----|-----------
