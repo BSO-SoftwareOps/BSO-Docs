@@ -5,6 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Red Star 6**
+
 Just like RS5 but with extra collosus and destroyers. Focus on the destroy planets first, EMP the collosus to reset their laser and kill 'em.
 
 Tech Name  | LV | # of Ships
@@ -13,18 +14,12 @@ Battery    |  5 | 2 (or<sup>1</sup>)
 Laser      |  5 | 2 (or<sup>1</sup>)
 Dual Laser | any| 1 (or<sup>2</sup>)
 Mass Batt  | any| 1 (or<sup>2</sup>)
-Barrage    |    |
------------|----|------------
-Passive    |    |
-Omega      |    |
-Blast      |    |
-Area       |    |
 -----------|----|------------
 EMP        | any| 2
-Teleport   |    |
-Barrier    |    |
+
 
 **Red Star 7**
+
 Welcome to bombers, if you have not turned on the heat map, turn it on now. Bombers fire rockets into all adjacent sectors and a rocket hit will quickly cause you to wipe, which is why we require Blast shield.
 
 Tech Name  | LV | # of Ships
@@ -35,14 +30,32 @@ Dual Laser |  5 | 1 (or<sup>2</sup>)
 Mass Batt  |  5 | 1 (or<sup>2</sup>)
 Barrage    |  6 | 1 (or<sup>1</sup>)
 -----------|----|------------
-Passive    |    |
-Omega      |    |
 Blast      |  1 | 1
+-----------|----|------------
+EMP        | any| 2
+Barrier    | 2  | 2
+
+
+**Red Star 8**
+
+Introducing the Phoenix, it packs an area shield, a strong dual laser, and moves around its sector to protect cerbs closest to battleships. You can use this to your advantage, ideally you want to trap a Phoneix just of out firing range as you kill a bomber to drain its area shield and then move into the kill.
+
+Tech Name  | LV | # of Ships
+-----------|----|-----------
+Battery    |  9 | 2 (or<sup>1</sup>)
+Laser      |  9 | 2 (or<sup>1</sup>)
+Dual Laser |  7 | 1 (or<sup>2</sup>)
+Mass Batt  |  7 | 1 (or<sup>2</sup>)
+Barrage    |  6 | 1 (or<sup>1</sup>)
+-----------|----|------------
+Passive    |  6 | 2 (or<sup>3</sup>)
+Omega      |  4 | 2 (or<sup>3</sup>)
+Blast      |  3 | 1
 Area       |    |
 -----------|----|------------
 EMP        | any| 2
 Teleport   |    |
-Barrier    | 2  | 2
+Barrier    | 5  | 1
 
 
 # White Stars
