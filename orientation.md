@@ -1,18 +1,21 @@
 # Red Stars
 
 **Protocol for a cooperative Red Star**
-Before going in to an :star_red_rs:RS:
+
+Before going in to an RS
 • Decide which corp your group will be running in. Consult the pinned messages in #bso-rs for when and how to do this.
 • Declare any liabilities before the scan (e.g. severely wounded BS or low hydro).
 • Declare if you need to complete an objective. Everyone should help you complete it or at least not interfere.
 
 **The general rules for sharing artifacts are:**
+
 • Work together as a team. Even if you lose ships, continue helping out as best you can with what you have.
 • Communicate well and thoroughly.
 • Ping any loosed interceptors.
 • We are not PRSS. Default mode is offering full team assistance, not soloing your corner. See point 2.
 
 **The general rules for combat are:**
+
 • Loot as many arts as you are able to during the RS.
 • If you ended up with many more arts than someone else (for whatever reason) we encourage you to offer to share them post-run (via diplo or low-level RS). This offer is mandatory in RS7+.
 • Running away and not dying is always better than standing strong and wiping. Alive BS are more useful that dead ones, even if you didnt solo that planet you were trying. This becomes more and more critical the higher up in RSes you go.
