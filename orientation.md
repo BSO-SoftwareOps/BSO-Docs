@@ -21,7 +21,7 @@ Before going in to an RS
 * Running away and not dying is always better than standing strong and wiping. Alive BS are more useful that dead ones, even if you didnt solo that planet you were trying. This becomes more and more critical the higher up in RSes you go.
 If you are an Ally, We require you to abide by BSO rules or you're reverted to guest status. If in doubt about anything, ask!
 
-
+---
 **Red Star 6**
 
 Just like RS5 but with extra collosus and destroyers. Focus on the destroy planets first, EMP the collosus to reset their laser and kill 'em.
@@ -35,7 +35,7 @@ Mass Batt  | any| 1 (or<sup>2</sup>)
 -----------|----|------------
 EMP        | any| 2
 
-
+---
 **Red Star 7**
 
 Welcome to bombers, if you have not turned on the heat map, turn it on now. Bombers fire rockets into all adjacent sectors and a rocket hit will quickly cause you to wipe, which is why we require Blast shield. 
@@ -54,7 +54,7 @@ Blast      |  1 | 1
 EMP        | any| 2
 Barrier    | 2  | 2
 
-
+---
 **Red Star 8**
 
 Introducing the Phoenix, it packs an area shield, a strong dual laser, and moves around its sector to protect cerbs closest to battleships. You can use this to your advantage, ideally you want to trap a Phoneix just of out firing range as you kill a bomber to drain its area shield and then move into the kill.
@@ -74,7 +74,7 @@ Blast      |  3 | 1
 -----------|----|------------
 Barrier    | 5  | 1
 
-
+---
 **Red Star 9**
 
 Ahh yes, the best RS to be at in game from a gain / hydro spent perspective. You will be here a while, enjoy it. The Storm is the new enemy here and it fires DARTS in a giant radius at all ships in range as it circles the planet. Follow similar engagement to RS8 in regards to Phoenix Area shield. Be careful with your barriers as stacked Storm darts will kill you VERY quick if you dont time barrier dropping right. Order of priority: Storm > Phoenix > Bomber > Collosus.
@@ -93,7 +93,8 @@ Blast      |  5 | 1
 -----------|----|------------
 Barrier    | 8  | 2
 
-**RS10**
+---
+**Red Star 10**
 
 Say hi to ghosts, they will spawn every 40seconds , then every 20 after 15 minutes. They take 30sec to spawn and will follow the closest player ship as interceptors but they will use the player ship position as a waypoint, no matter if it's moving or not.
 
