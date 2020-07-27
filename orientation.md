@@ -1,8 +1,23 @@
 # Red Stars
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Protocol for a cooperative Red Star**
+Before going in to an :star_red_rs:RS:
+• Decide which corp your group will be running in. Consult the pinned messages in #bso-rs for when and how to do this.
+• Declare any liabilities before the scan (e.g. severely wounded BS or low hydro).
+• Declare if you need to complete an objective. Everyone should help you complete it or at least not interfere.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**The general rules for sharing artifacts are:**
+• Work together as a team. Even if you lose ships, continue helping out as best you can with what you have.
+• Communicate well and thoroughly.
+• Ping any loosed interceptors.
+• We are not PRSS. Default mode is offering full team assistance, not soloing your corner. See point 2.
+
+**The general rules for combat are:**
+• Loot as many arts as you are able to during the RS.
+• If you ended up with many more arts than someone else (for whatever reason) we encourage you to offer to share them post-run (via diplo or low-level RS). This offer is mandatory in RS7+.
+• Running away and not dying is always better than standing strong and wiping. Alive BS are more useful that dead ones, even if you didnt solo that planet you were trying. This becomes more and more critical the higher up in RSes you go.
+If you are an Ally, We require you to abide by BSO rules or you're reverted to guest status. If in doubt about anything, ask!
+
 
 **Red Star 6**
 
@@ -77,7 +92,7 @@ Barrier    | 8  | 2
 
 **RS10**
 
-This introduces the Ghost, a swarm of regularly spawning ships that are immunte to most mods. They spawn anywhere and spawn more frequently the longer the RS goes on. Because of this BSO requires a 2 phased approach, the clear phase and the collection phase.
+Say hi to ghosts, they will spawn every 40seconds , then every 20 after 15 minutes. They take 30sec to spawn and will follow the closest player ship as interceptors but they will use the player ship position as a waypoint, no matter if it's moving or not.
 
 __Phase 1__ -- The Clear
 
